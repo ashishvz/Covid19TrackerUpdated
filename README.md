@@ -10,4 +10,4 @@ Covid 19 Tracker
        * https://api.covid19api.com/summary
        * https://api.covid19india.org/state_district_wise.json
       
- ![Screenshot](https://raw.githubusercontent.com/ashishvz/Covid19TrackerUpdated/master/Screenshot_20200430-134411_Covid-19%20Tracker.jpg?height=500)
+ ![Screenshot](https://raw.githubusercontent.com/ashishvz/Covid19TrackerUpdated/master/alinone.png)
