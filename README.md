@@ -9,5 +9,5 @@ Covid 19 Tracker
        Used API's as follows:
        * https://api.covid19api.com/summary
        * https://api.covid19india.org/state_district_wise.json
-       
-     <img src="Screenshot_20200430-134411_Covid-19 Tracker.jpg" alt="SplashScreen"/>
+      
+![Screenshot](Screenshot_20200430-134411_Covid-19 Tracker.jpg)
